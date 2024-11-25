@@ -1,0 +1,1 @@
+A fully responsive and visually appealing static eCommerce website built using HTML5 and CSS3. This project showcases the layout and design of a modern online store, including essential eCommerce features such as product listings, navigation, and a clean user interface.
